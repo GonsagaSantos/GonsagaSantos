@@ -1,4 +1,4 @@
-## Opa, sou o Miguel Santos!
+## Opa, meu nome é Miguel Santos!
 
 Atualmente cursando Análise e Desenvolvimento de Sistemas e estudando Angular e C, procurando aprender C# e melhorar meus códigos cada vez mais.
 
