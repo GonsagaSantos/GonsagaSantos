@@ -2,7 +2,7 @@
 
 Atualmente cursando Análise e Desenvolvimento de Sistemas e estudando Angular e C, procurando aprender C# e melhorar meus códigos cada vez mais.
 
-🌕 Desenvolvendo, usando Angular, juntamente de dois amigos um site de previsão de tempo usando uma API. 
+🌕 Desenvolvendo, usando JavaScript, um site informativo sobre fatos astronômicos usando a API da Nasa. 
 
 🌗 Em C, fiz alguns mini-projetos simples para treinar a lógica de programação. São alguns joguinhos que estão disponíveis no respectivo repositório! 
 
